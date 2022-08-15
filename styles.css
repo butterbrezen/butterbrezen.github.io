@@ -1,14 +1,17 @@
-h1 {
-    font-size: 40px;
+body{
+    background-color: lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content-wrapper{
+    padding: 10px 30px;
+}
+p{
+    text-align: justify;
+}
+h1{
     text-align: center;
 }
-
-.box {
-  width: 200px;
-  color: grey;
-  background-color: lightblue;
-  border:  2px solid blue;
-  border-radius: 0 1em 1em 1em;
-  margin:  20px auto;
-  padding: 2em;
+.highlight{
+    font-weight: 700;
+    color: forestgreen;
 }
