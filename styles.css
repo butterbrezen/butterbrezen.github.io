@@ -3,9 +3,12 @@ h1 {
     text-align: center;
 }
 
-p,
-li {
-    font-size: 8px;
-    line-height: 2;
-    letter-spacing: 1px;
+.box {
+  width: 200px;
+  color: grey;
+  background-color: lightblue;
+  border:  2px solid blue;
+  border-radius: 0 1em 1em 1em;
+  margin:  20px auto;
+  padding: 2em;
 }
